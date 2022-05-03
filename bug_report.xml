@@ -2,9 +2,9 @@
    <ID>03_05_22tit</ID>
    <Summary>"wrong url on calculator tc Deloviye linii on page payment and delivery"</Summary>
    <Environment>"Windows 7 SP_1 Google Chrome 100.0.4896.127"</Environment>
-   <Steps_to_reproduce>"Start url https://technoit.ru/payment-and-shipping/ check url on calculator tc Deloviye linii </Steps_to_reproduce>
-   <Expected_result>" on page https://technoit.ru/payment-and-shipping/ must open calculator https://www.dellin.ru/requests/"</Expected_result>
-   <Actual result>" on page https://technoit.ru/payment-and-shipping/  open wrong url https://dev.dellin.ru/iframe/ and client can't calculate"</Actual result>
+   <Steps_to_reproduce>"Start url https://technoit.ru/payment-and-shipping/ check url on calculator tc Deloviye linii"</Steps_to_reproduce>
+   <Expected_result>"on page https://technoit.ru/payment-and-shipping/ must open calculator https://www.dellin.ru/requests/"</Expected_result>
+   <Actual result>"on page https://technoit.ru/payment-and-shipping/  open wrong url https://dev.dellin.ru/iframe/ and client can't calculate"</Actual result>
 </XML>
  
   
